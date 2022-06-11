@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+  }
+  
+  #end {
+    visibility: hidden;
+  }
